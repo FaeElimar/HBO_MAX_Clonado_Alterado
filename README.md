@@ -4,3 +4,4 @@ O projeto é um clone do site HBO Max, com o intuito de reproduzir a interface, 
 
 O clone do site HBO Max serve como desafio para os alunos da plataforma testarem seus conhecimentos e colocarem em prática os recursos de HTML e CSS abordados nos cursos.
 
+http://127.0.0.1:5500/index.html#subscription
